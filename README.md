@@ -20,7 +20,7 @@ We developed an automatic system to detect TD in peer-review issue comments of R
 ## Automatic Detection
 We developed a two-stage hierarchical BERT-based system to detect the type of TD.
 
-## Empirical study
+## Empirical Study
 We automatically labelled large-scale R issue comments from rOpenSci and BioConductor with our automated model and conducted empirical study on them.
 
 ## Code
