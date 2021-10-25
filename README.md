@@ -24,4 +24,4 @@ We developed a two-stage hierarchical BERT-based system to detect the type of TD
 We automatically labelled large-scale R issue comments from rOpenSci and BioConductor with our automated model and conducted empirical study on them.
 
 ## Code
-You will find the codes and data of this project under the 'codes' and 'data' directory. The codes are organised in a sequential manner.
+You will find the codes of this project under the 'codes' directory. The codes are organised in a sequential manner.
